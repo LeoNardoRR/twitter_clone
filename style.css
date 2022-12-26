@@ -114,7 +114,7 @@
     margin-top: 41px;
     width: 62.5vh;
     height: 60px;
-    border: none;
+    border: 1px solid red;
 }
 
 .button2{
